@@ -1,0 +1,22 @@
+{
+  "1": {
+    "name": "Maris",
+    "surname": "Sibgatulov",
+    "age": 19
+  },
+  "2": {
+    "name": "Robert",
+    "surname": "Downey Jr.",
+    "age": 56
+  },
+  "3": {
+    "name": "Will",
+    "surname": "Smith",
+    "age": 52
+  },
+  "4": {
+    "name": "Tobey",
+    "surname": "Maguire",
+    "age": 46
+  }
+}
